@@ -6,7 +6,7 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"/>
     <application
-        android:label="Dr Jameel - Hanyoyin Samun Albarka & Siffofin Bayin Allah"
+        android:label="Dr Jameel - Hanyoyin Samun Albarka &amp; Siffofin Bayin Allah"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
